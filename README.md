@@ -4,7 +4,7 @@
 <tr>
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · bharathmm562</sub></p>
-<h1>bharathmm562</h1>
+<h1>Bharath MM</h1>
 <h2>Frontend or full-stack engineer</h2>
 <p>Building useful software and sharing the work in public.</p>
 <p><strong>● Building and sharing work in public</strong></p>
