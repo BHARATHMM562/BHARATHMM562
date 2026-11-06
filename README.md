@@ -93,32 +93,3 @@
 <td width="20%" align="center"><strong>CSS</strong><br /><sub>3% of public code</sub></td>
 </tr>
 </table>
-
-<h2>Consistency signal</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=bharathmm562&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F102822441%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=bharathmm562&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F102822441%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="bharathmm562 contribution activity" />
-</picture>
-</p>
-
-<hr />
-
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/bharathmm562">GitHub</a></td>
-</tr>
-</table>
-
-
-This is Bharath MM's terminal-styled Next.js portfolio.
-
-<a href="https://github.com/BHARATHMM562/Portfolio"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/repo-diagram/image?owner=BHARATHMM562&amp;repo=Portfolio&amp;theme=dark&amp;v=1793947507350">
-  <img alt="Architecture diagram of BHARATHMM562/Portfolio" src="https://www.gitskins.com/api/repo-diagram/image?owner=BHARATHMM562&amp;repo=Portfolio&amp;theme=light&amp;v=1793947507350">
-</picture></a>
-
-<sub>Drawn from the code by <a href="https://www.gitskins.com">GitSkins</a></sub>
-<!-- /gitskins:architecture -->
