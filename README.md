@@ -112,10 +112,6 @@
 </tr>
 </table>
 
-<p align="center"><sub>bharathmm562 · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
-
-<!-- gitskins:architecture -->
-### How [Portfolio](https://github.com/BHARATHMM562/Portfolio) works
 
 This is Bharath MM's terminal-styled Next.js portfolio.
 
